@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Shopify_Word_Search</string>
+    <string name="app_name">Word Search</string>
+    <string name="found_word_text">Found Words:</string>
 </resources>
